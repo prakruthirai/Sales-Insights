@@ -16,7 +16,8 @@ This repository contains a Power BI report that provides comprehensive insights 
 
 Key Insights
 
-![Screenshot 2024-10-09 170201](https://github.com/user-attachments/assets/3392da72-3fcb-407f-b665-085f84c2e865)
+![Screenshot 2024-10-09 170138](https://github.com/user-attachments/assets/8d4d6280-572c-4f7e-9999-1033d81cde8b)
+
 
 Product Analysis
 
